@@ -1,0 +1,1110 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3638514,29.81154802 ]
+    },
+    "properties": {
+    "mls":2677308,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36002765,29.78601704 ]
+    },
+    "properties": {
+    "mls":2707648,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35601094,29.78369653 ]
+    },
+    "properties": {
+    "mls":3631477,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.37063436,29.8016596 ]
+    },
+    "properties": {
+    "mls":3798854,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.37044536,29.8016606 ]
+    },
+    "properties": {
+    "mls":5020088,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35037118,29.7813671 ]
+    },
+    "properties": {
+    "mls":7631346,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36693578,29.78640493 ]
+    },
+    "properties": {
+    "mls":8818327,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.363955,29.776713 ]
+    },
+    "properties": {
+    "mls":9321949,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35960465,29.77599888 ]
+    },
+    "properties": {
+    "mls":9627315,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35734884,29.80524639 ]
+    },
+    "properties": {
+    "mls":9964097,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3547039,29.77667318 ]
+    },
+    "properties": {
+    "mls":10536297,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36011288,29.78601537 ]
+    },
+    "properties": {
+    "mls":12069066,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36294873,29.7950063 ]
+    },
+    "properties": {
+    "mls":12836939,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36016227,29.78561217 ]
+    },
+    "properties": {
+    "mls":14254926,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36857946,29.81313882 ]
+    },
+    "properties": {
+    "mls":14729280,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.37072069,29.81303974 ]
+    },
+    "properties": {
+    "mls":17248485,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36985757,29.80943667 ]
+    },
+    "properties": {
+    "mls":18227187,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.351445,29.778186 ]
+    },
+    "properties": {
+    "mls":25356952,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36201621,29.80430243 ]
+    },
+    "properties": {
+    "mls":29465616,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35602741,29.78511806 ]
+    },
+    "properties": {
+    "mls":30161492,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36642974,29.79478987 ]
+    },
+    "properties": {
+    "mls":32238429,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35093367,29.79245937 ]
+    },
+    "properties": {
+    "mls":34799457,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36647571,29.78179296 ]
+    },
+    "properties": {
+    "mls":35959848,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36396218,29.80178094 ]
+    },
+    "properties": {
+    "mls":36729450,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.34204921,29.78713582 ]
+    },
+    "properties": {
+    "mls":36858756,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36384043,29.77675457 ]
+    },
+    "properties": {
+    "mls":37033654,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36638051,29.79567888 ]
+    },
+    "properties": {
+    "mls":38846234,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36301153,29.78333246 ]
+    },
+    "properties": {
+    "mls":39909212,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35387002,29.79242892 ]
+    },
+    "properties": {
+    "mls":39969640,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36073644,29.8057723 ]
+    },
+    "properties": {
+    "mls":41718666,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36426756,29.77682978 ]
+    },
+    "properties": {
+    "mls":43177596,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.34731612,29.7786311 ]
+    },
+    "properties": {
+    "mls":45359336,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.37012233,29.81170135 ]
+    },
+    "properties": {
+    "mls":46395956,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35291192,29.78440094 ]
+    },
+    "properties": {
+    "mls":46892581,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35831534,29.81312484 ]
+    },
+    "properties": {
+    "mls":48708210,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35726761,29.80854635 ]
+    },
+    "properties": {
+    "mls":50553331,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.37049049,29.81242082 ]
+    },
+    "properties": {
+    "mls":51651440,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35590979,29.78503108 ]
+    },
+    "properties": {
+    "mls":51690717,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35858166,29.80729689 ]
+    },
+    "properties": {
+    "mls":52311644,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3663589,29.79403794 ]
+    },
+    "properties": {
+    "mls":52346664,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36483897,29.79840871 ]
+    },
+    "properties": {
+    "mls":52396752,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.34469035,29.77764661 ]
+    },
+    "properties": {
+    "mls":52685206,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35648635,29.81490822 ]
+    },
+    "properties": {
+    "mls":52705703,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35044788,29.77860371 ]
+    },
+    "properties": {
+    "mls":52938587,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.34529,29.811859 ]
+    },
+    "properties": {
+    "mls":55687140,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36844198,29.81238722 ]
+    },
+    "properties": {
+    "mls":59582713,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.34411352,29.77692376 ]
+    },
+    "properties": {
+    "mls":60327582,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36984401,29.80266745 ]
+    },
+    "properties": {
+    "mls":60497526,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3522751,29.8010438 ]
+    },
+    "properties": {
+    "mls":61141443,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35389961,29.79242855 ]
+    },
+    "properties": {
+    "mls":63635069,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3607987,29.80710483 ]
+    },
+    "properties": {
+    "mls":65668037,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.37044536,29.8016606 ]
+    },
+    "properties": {
+    "mls":66117514,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.37015236,29.81170127 ]
+    },
+    "properties": {
+    "mls":67029237,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.353972,29.78351978 ]
+    },
+    "properties": {
+    "mls":67596953,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36823393,29.81622795 ]
+    },
+    "properties": {
+    "mls":68730199,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.351763,29.811278 ]
+    },
+    "properties": {
+    "mls":68823754,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.359722,29.78659983 ]
+    },
+    "properties": {
+    "mls":68935931,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35143098,29.77675445 ]
+    },
+    "properties": {
+    "mls":73792596,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35556031,29.80695788 ]
+    },
+    "properties": {
+    "mls":74767604,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.34983545,29.78074986 ]
+    },
+    "properties": {
+    "mls":74967144,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35441882,29.81031037 ]
+    },
+    "properties": {
+    "mls":75678877,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3697788,29.81015612 ]
+    },
+    "properties": {
+    "mls":76631419,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3559235,29.77972499 ]
+    },
+    "properties": {
+    "mls":77161954,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35557151,29.77533151 ]
+    },
+    "properties": {
+    "mls":78921037,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36809978,29.79996782 ]
+    },
+    "properties": {
+    "mls":80977866,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36365131,29.80855997 ]
+    },
+    "properties": {
+    "mls":81476568,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3597955,29.78659725 ]
+    },
+    "properties": {
+    "mls":82850725,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3582012,29.77510031 ]
+    },
+    "properties": {
+    "mls":83279383,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35665643,29.81662957 ]
+    },
+    "properties": {
+    "mls":85120296,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.370704,29.792315 ]
+    },
+    "properties": {
+    "mls":85449481,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35612355,29.77495318 ]
+    },
+    "properties": {
+    "mls":85729047,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35225115,29.7768017 ]
+    },
+    "properties": {
+    "mls":88485006,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35653884,29.81718804 ]
+    },
+    "properties": {
+    "mls":88604656,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35708918,29.79791555 ]
+    },
+    "properties": {
+    "mls":88682247,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.37355371,29.81727078 ]
+    },
+    "properties": {
+    "mls":89842659,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35117084,29.78836767 ]
+    },
+    "properties": {
+    "mls":89846253,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35117065,29.78835531 ]
+    },
+    "properties": {
+    "mls":92137503,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35255967,29.80445537 ]
+    },
+    "properties": {
+    "mls":95143543,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35225137,29.77681767 ]
+    },
+    "properties": {
+    "mls":97351364,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3585498,29.7967217 ]
+    },
+    "properties": {
+    "mls":97568740,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35796443,29.77443337 ]
+    },
+    "properties": {
+    "mls":98016450,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.36367743,29.78255086 ]
+    },
+    "properties": {
+    "mls":98915588,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3694476,29.81150526 ]
+    },
+    "properties": {
+    "mls":34073074,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35956655,29.78500545 ]
+    },
+    "properties": {
+    "mls":65199858,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.35881382,29.78485033 ]
+    },
+    "properties": {
+    "mls":75788493,
+    "campus_number":101912003,
+    "school":"NORTHSIDE H S",
+    "rating":"C"
+    }
+  }
+]
+}
