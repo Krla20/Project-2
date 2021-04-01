@@ -10,8 +10,9 @@ import pandas as pd
 import numpy as np
 from secrets import username, password
 import json
-from config import connect_string
+# from config import connect_string
 
+connect_string = f"postgres://uothqbtdpaanvg:2fde20bbd35347df59d70e1177499cff2eb72b2629941b7c82a071fe36677ec0@ec2-100-24-139-146.compute-1.amazonaws.com:5432/d6rafo5fo1kucb"
 
 class Datalayer():
 

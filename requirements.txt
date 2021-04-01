@@ -1,3 +1,4 @@
+
 dnspython
 Flask
 itsdangerous
@@ -15,3 +16,22 @@ plotly
 Flask-SQLAlchemy
 gunicorn
 requests==0.11.1
+=======
+dnspython
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+pandas
+psycopg2-binary
+python-dateutil
+pytz
+six
+SQLAlchemy
+Werkzeug
+plotly
+Flask-SQLAlchemy
+gunicorn
+requests==0.11.1
+
