@@ -1,11 +1,11 @@
 from flask import Flask, render_template,json, jsonify, request
-import requests
+#import requests
 import sqlalchemy
 from sqlalchemy.orm import Session
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy import create_engine
 import psycopg2
-import pandas as pd
+# import pandas as pd
 from secrets import username, password
 import json
 # import os

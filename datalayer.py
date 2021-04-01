@@ -1,6 +1,6 @@
 
 from flask import Flask, render_template, jsonify, request
-import requests
+#import requests
 import sqlalchemy
 from sqlalchemy.orm import Session
 from sqlalchemy.ext.automap import automap_base
